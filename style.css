@@ -1,0 +1,33 @@
+body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+div{
+  border: 2px solid black;
+  border-radius: 8px;
+  text-align: center;
+  margin-inline: auto;
+  margin-block: 25px;
+}
+
+table tr{
+  padding: 10px;
+  text-align: center;
+}
+table th{
+  padding: 50px;
+ 
+}
+tbody{
+  text-align: center;
+  
+}
+.delete{
+  background-color: crimson;
+  border: none;
+  border-radius: 50%;
+  font-size: 15px;
+}
